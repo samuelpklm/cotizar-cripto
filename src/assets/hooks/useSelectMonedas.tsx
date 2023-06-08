@@ -1,4 +1,4 @@
-import styled, { StyledComponent } from "@emotion/styled"
+import styled from "@emotion/styled"
 import { useState } from "react"
 
 type moneda = {
