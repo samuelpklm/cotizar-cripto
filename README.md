@@ -20,8 +20,8 @@ Esta es una solucion al Tercer Proyecto  del curso: [*"Aprende React: Hooks, Sta
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/samuelpklm/Planificador-de-gastos)
-- Live Site URL: [Live Site](https://roaring-llama-33efbb.netlify.app/)
+- Solution URL: [Solution](https://github.com/samuelpklm/cotizar-cripto)
+- Live Site URL: [Live Site](https://sparkly-cheesecake-138b28.netlify.app/)
 
 ## My process
 
